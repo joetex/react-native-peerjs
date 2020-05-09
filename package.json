@@ -12,7 +12,7 @@
     "license": "MIT",
     "scripts": {
         "build": "bash build.sh",
-        "prepare": "./build.sh"
+        "prepare": "bash build.sh"
     },
     "main": "dist/react-native-peerjs.js",
     "devDependencies": {
